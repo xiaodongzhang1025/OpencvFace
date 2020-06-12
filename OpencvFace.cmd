@@ -1,0 +1,2 @@
+python OpencvFace.py
+pause
